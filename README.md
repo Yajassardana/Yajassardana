@@ -7,7 +7,7 @@
 - 💻 **Favourite word** : nodemon
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
- <a href="mailto:yajassardana@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:yajassardana@gmail.com" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/yajas-sardana/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 
 
