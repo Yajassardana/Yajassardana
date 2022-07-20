@@ -1,7 +1,7 @@
 ## Hey! I'm Yajas Sardana 🙌
 ### I'm a Software Developer, Debater and Technical Blogger from Delhi, India.
-- 👨‍💻 My last role was as a **SDE Intern** at [Cure.fit](https://www.curefit.com).
-- 👨‍🎓 I'm an IT engineering sophomore at **NSUT, Delhi**.
+- 👨‍💻 My last role was as a **SWE Intern** at [Microsoft](https://www.microsoft.com/en-in).
+- 👨‍🎓 I'm an IT engineering senior at **NSUT, Delhi**.
 - 💡 I'm **currently learning** React native and advanced data structures.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 - 💻 **Favourite word** : nodemon
