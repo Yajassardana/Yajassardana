@@ -1,5 +1,5 @@
 ## Hey! I'm Yajas Sardana 🙌
-### I'm a Software Developer, Debater and Technical Blogger from Delhi, India.
+### I'm a Software Developer and Content Creator from Delhi, India.
 - 👨‍💻 My last role was as a **SWE Intern** at [Microsoft](https://www.microsoft.com/en-in).
 - 👨‍🎓 I'm an IT engineering senior at **NSUT, Delhi**.
 - 💡 I'm **currently learning** React native and advanced data structures.
